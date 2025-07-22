@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Ada Bhat  
+🎓 Computer Science undergrad | 📊 Aspiring Data & Business Analyst  
+💡 Passionate about Analytics, ML, and transforming data into actionable insights  
+📌 Actively building projects using SQL, MsExcel, Python, Power BI
 
-<!--
-**adabhat/adabhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 Featured Projects  
+- 🔍 [Fake News Detection using ML/DL](https://github.com/adabhat/Fake-news-detection-using-ml-dl)  
+- 📊 [Blinkit Sales Data Dashboard](https://github.com/adabhat/Blinkit-Sales-Data-Analysis-Dashboard)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Python, SQL, 
+**Tools:** Power BI, Excel, Jupyter Notebook  
+**Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn  
+
+---
+
+## 📫 Let's Connect  
+- [LinkedIn](https://www.linkedin.com/in/ada-bhat)  
+- [Resume](#) (https://drive.google.com/drive/folders/18MIqkHq1H7D7rLd_6fCYUc1SxXK1zgqQ?usp=sharing)  
+
+
 - ⚡ Fun fact: ...
--->
+--> Hi! I’m Ada — I love wearing many hats (metaphorically).
+When I’m not juggling responsibilities, you’ll find me hosting events, choreographing dances, or confidently winging it on stage (somehow it works 😄).
+I thrive in creative, collaborative spaces and genuinely enjoy connecting with people and bringing energy into everything I do.
