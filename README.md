@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ada Bhat  
-🎓 Computer Science undergrad | 📊 Aspiring Data & Business Analyst  
-💡 Passionate about Analytics, and its integration with business and strategy
+🎓 Computer Science undergrad | 📊 Aspiring Data & Business Analyst <br>
+💡 Passionate about Analytics, and its integration with Business and Strategy <br>
 📌 Actively building projects using SQL, MsExcel, Python, Power BI
 
 ---
