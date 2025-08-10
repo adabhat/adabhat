@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack  
 **Languages:** Python, SQL, 
 **Tools:** Power BI, Excel, Jupyter Notebook  
-**Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn  
+**Libraries:** Pandas, Numpy, Matplotlib, Seaborn
 
 ---
 
