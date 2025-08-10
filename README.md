@@ -8,6 +8,10 @@
 ## 🌟 Featured Projects  
 - 🔍 [Fake News Detection using ML/DL](https://github.com/adabhat/Fake-news-detection-using-ml-dl)  
 - 📊 [Blinkit Sales Data Dashboard](https://github.com/adabhat/Blinkit-Sales-Data-Analysis-Dashboard)
+- 🏦 [Banking Domain Risk Analysis](https://github.com/adabhat/Banking-Domain-Risk-Analysis)
+- 📊 [Power BI Dashboard Projects](https://github.com/adabhat/PowerBI-Dashboard)
+
+  
 
 
 ---
@@ -21,7 +25,7 @@
 
 ## 📫 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/ada-bhat)  
-- [Resume](#) (https://drive.google.com/drive/folders/18MIqkHq1H7D7rLd_6fCYUc1SxXK1zgqQ?usp=sharing)  
+- [Resume](#) (http://tiny.cc/ada-bhat-resume)  
 
 
 - ⚡ Fun fact: ...
