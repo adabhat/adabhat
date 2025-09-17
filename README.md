@@ -8,7 +8,7 @@
 ## 🌟 Featured Projects  
 - 🔍 [Fake News Detection using ML/DL](https://github.com/adabhat/Fake-news-detection-using-ml-dl)  
 - 📊 [Blinkit Sales Data Dashboard](https://github.com/adabhat/Blinkit-Sales-Data-Analysis-Dashboard)
-- 🏦 [Banking Domain Risk Analysis](https://github.com/adabhat/Banking-Domain-Risk-Analysis)
+- 🏦 [Airbnb Listing Data Analysis]()
 
 
   
